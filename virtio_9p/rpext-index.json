@@ -1,6 +1,6 @@
 {
   "id": "thethorgroup.virtio",
-  "url": "https://github.com/uxora-com/rpext/raw/master/virtio_9p/rpext-index.json",
+  "url": "https://github.com/setiadihendry/rpext/raw/master/virtio_9p/rpext-index.json",
   "info": {
     "name": "VirtIO",
     "description": "Adds VirtIO with 9p support for fast network/PCI/SCSI/network/console paravirtualization under QEmu (Proxmox, VirtualBox, virsh, and similar)",
