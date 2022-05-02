@@ -16,7 +16,7 @@
     },
     {
       "name": "9p.ko",
-      "url": "https://github.com/pocopico/3.10.108-modules/raw/main/9p.ko",
+      "url": "https://github.com/pocopico/4.4.180plus-modules/raw/main/9p.ko",
       "sha256": "2c417070444530e3342e20bafb99c8fbdd8b1e6a26759f4555632d7b8c171f5a",
       "packed": false
     },
@@ -42,9 +42,9 @@
     "virtio_blk.ko": "",
     "virtio_net.ko": "",
     "virtio_scsi.ko": "",
-    "9p.ko": "",
     "9pnet.ko": "",
-    "9pnet_virtio.ko": ""
+    "9pnet_virtio.ko": "",
+    "9p.ko": ""
   },
 
     "scripts": {
