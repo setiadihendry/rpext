@@ -48,6 +48,7 @@
     "virtio_blk.ko": "",
     "virtio_net.ko": "",
     "virtio_scsi.ko": "",
+    "9pnet.ko": "",
     "9pnet_virtio.ko": "",
     "9p.ko": ""
   },
