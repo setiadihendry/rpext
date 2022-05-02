@@ -3,15 +3,15 @@
 
   "files": [
     {
-      "name": "v9fs-3.10.108.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/v9fs-3.10.108.tgz",
-      "sha256": "25d8f1f868df0cb9007610f104caa9a878913717ac0a37c28895fef567313f04",
+      "name": "v9fs-4.4.180plus.tgz",
+      "url": "https://github.com/pocopico/rp-ext/raw/main/v9fs/releases/v9fs-4.4.180plus.tgz",
+      "sha256": "105afa0d32667e1cd15a642125d79145e94cdbbc59d0449c280133d4143720f1",
       "packed": true
     },
     {
       "name": "9pnet_virtio.ko",
-      "url": "https://github.com/pocopico/3.10.108-modules/raw/main/9pnet_virtio.ko",
-      "sha256": "02ce3f9d6ba416a0fca995fad1c3ded400a2611de4182b333ad48b76f9ccfaf9",
+      "url": "https://github.com/pocopico/4.4.180plus-modules/raw/main/9pnet_virtio.ko",
+      "sha256": "c0bb3d7c6720855b19418c1d85e381843bdd10a94b1d9b04d18a2426a5ad6c55",
       "packed": false
     },
     {
