@@ -4,19 +4,19 @@
   "files": [
     {
       "name": "9pnet_virtio.ko",
-      "url": "https://github.com/pocopico/4.4.180plus-modules/raw/main/9pnet_virtio.ko",
+      "url": "https://github.com/pocopico/3.10.108-modules/raw/main/9pnet_virtio.ko",
       "sha256": "a75fcc21941122a72d0373dc2dc60e2e890d3b22bed210522b94f153b6084366",
       "packed": false
     },
     {
       "name": "9pnet.ko",
-      "url": "https://github.com/pocopico/4.4.180plus-modules/raw/main/9pnet.ko",
+      "url": "https://github.com/pocopico/3.10.108-modules/raw/main/9pnet.ko",
       "sha256": "d9571bf5be38c33bd4c9439fa7c93a459c80ef4f2fbf5349dd2931f6736c5ebe",
       "packed": false
     },
     {
       "name": "9p.ko",
-      "url": "https://github.com/pocopico/4.4.180plus-modules/raw/main/9p.ko",
+      "url": "https://github.com/pocopico/3.10.108-modules/raw/main/9p.ko",
       "sha256": "2c417070444530e3342e20bafb99c8fbdd8b1e6a26759f4555632d7b8c171f5a",
       "packed": false
     },
@@ -43,7 +43,6 @@
     "virtio_net.ko": "",
     "virtio_scsi.ko": "",
     "9pnet.ko": "",
-    "9pnet_virtio.ko": "",
     "9p.ko": ""
   },
 
