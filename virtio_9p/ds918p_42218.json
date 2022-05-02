@@ -15,8 +15,14 @@
       "packed": true
     },
     {
-      "name": "v9fs-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/releases/v9fs-4.4.180plus.tgz",
+      "name": "9p.ko",
+      "url": "https://github.com/pocopico/4.4.180plus-modules/raw/main/9p.ko",
+      "sha256": "109fdea17a508abaded85714864751f9b443ecd7edc3ea05f657fab0a571f1b3",
+      "packed": true
+    },
+    {
+      "name": "9pnet.ko",
+      "url": "https://github.com/pocopico/4.4.180plus-modules/raw/main/9pnet.ko",
       "sha256": "109fdea17a508abaded85714864751f9b443ecd7edc3ea05f657fab0a571f1b3",
       "packed": true
     },
