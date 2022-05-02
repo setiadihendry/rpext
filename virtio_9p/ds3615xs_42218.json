@@ -3,15 +3,15 @@
 
   "files": [
     {
-      "name": "9pnet.ko",
-      "url": "https://github.com/pocopico/3.10.108-modules/raw/main/9pnet.ko",
-      "sha256": "d9571bf5be38c33bd4c9439fa7c93a459c80ef4f2fbf5349dd2931f6736c5ebe",
+      "name": "9pnet_virtio.ko",
+      "url": "https://github.com/pocopico/3.10.108-modules/raw/main/9pnet_virtio.ko",
+      "sha256": "02ce3f9d6ba416a0fca995fad1c3ded400a2611de4182b333ad48b76f9ccfaf9",
       "packed": false
     },
     {
-      "name": "9pnet_virtio.ko",
-      "url": "https://github.com/pocopico/3.10.108-modules/raw/main/9pnet_virtio.ko",
-      "sha256": "a75fcc21941122a72d0373dc2dc60e2e890d3b22bed210522b94f153b6084366",
+      "name": "9pnet.ko",
+      "url": "https://github.com/pocopico/3.10.108-modules/raw/main/9pnet.ko",
+      "sha256": "d9571bf5be38c33bd4c9439fa7c93a459c80ef4f2fbf5349dd2931f6736c5ebe",
       "packed": false
     },
     {
