@@ -1,1 +1,76 @@
+{
+  "mod_version": "v1",
 
+  "files": [
+    {
+      "name": "9p.ko",
+      "url": "https://github.com/pocopico/redpill-modules/raw/master/broadwell-4.4.302/9p.ko",
+      "sha256": "02ce3f9d6ba416a0fca995fad1c3ded400a2611de4182b333ad48b76f9ccfaf9",
+      "packed": false
+    },
+    {
+      "name": "virtio.ko",
+      "url": "https://github.com/pocopico/redpill-modules/raw/master/broadwell-4.4.302/virtio.ko",
+      "sha256": "02ce3f9d6ba416a0fca995fad1c3ded400a2611de4182b333ad48b76f9ccfaf9",
+      "packed": false
+    },
+    {
+      "name": "virtio_blk.ko",
+      "url": "https://github.com/pocopico/redpill-modules/raw/master/broadwell-4.4.302/virtio_blk.ko",
+      "sha256": "02ce3f9d6ba416a0fca995fad1c3ded400a2611de4182b333ad48b76f9ccfaf9",
+      "packed": false
+    },
+    {
+      "name": "virtio_net.ko",
+      "url": "https://github.com/pocopico/redpill-modules/raw/master/broadwell-4.4.302/virtio_net.ko",
+      "sha256": "02ce3f9d6ba416a0fca995fad1c3ded400a2611de4182b333ad48b76f9ccfaf9",
+      "packed": false
+    },
+    {
+      "name": "virtio_pci.ko",
+      "url": "https://github.com/pocopico/redpill-modules/raw/master/broadwell-4.4.302/virtio_pci.ko",
+      "sha256": "02ce3f9d6ba416a0fca995fad1c3ded400a2611de4182b333ad48b76f9ccfaf9",
+      "packed": false
+    },
+    {
+      "name": "virtio_scsi.ko",
+      "url": "https://github.com/pocopico/redpill-modules/raw/master/broadwell-4.4.302/virtio_scsi.ko",
+      "sha256": "02ce3f9d6ba416a0fca995fad1c3ded400a2611de4182b333ad48b76f9ccfaf9",
+      "packed": false
+    },
+    {
+      "name": "virtio_ring.ko",
+      "url": "https://github.com/pocopico/redpill-modules/raw/master/broadwell-4.4.302/virtio_ring.ko",
+      "sha256": "02ce3f9d6ba416a0fca995fad1c3ded400a2611de4182b333ad48b76f9ccfaf9",
+      "packed": false
+    },
+    {
+      "name": "virtio_mmio.ko",
+      "url": "https://github.com/pocopico/redpill-modules/raw/master/broadwell-4.4.302/virtio_mmio.ko",
+      "sha256": "02ce3f9d6ba416a0fca995fad1c3ded400a2611de4182b333ad48b76f9ccfaf9",
+      "packed": false
+    },
+    {
+      "name": "virtio_input.ko",
+      "url": "https://github.com/pocopico/redpill-modules/raw/master/broadwell-4.4.302/virtio_input.ko",
+      "sha256": "02ce3f9d6ba416a0fca995fad1c3ded400a2611de4182b333ad48b76f9ccfaf9",
+      "packed": false
+    }
+  ],
+
+  "kmods": {
+    "9p.ko": "",
+    "virtio.ko": "",
+    "virtio_blk.ko": "",
+    "virtio_net.ko": "",
+    "virtio_pci.ko": "",
+    "virtio_scsi.ko": "",
+    "virtio_ring.ko": "",
+    "virtio_mmio.ko": "",
+    "virtio_input.ko": ""
+  },
+
+    "scripts": {
+    "check_kmod": "check-virtio.sh"
+  }
+}
