@@ -55,7 +55,13 @@
       "url": "https://github.com/pocopico/redpill-modules/raw/master/broadwell-4.4.302/virtio_input.ko",
       "sha256": "02ce3f9d6ba416a0fca995fad1c3ded400a2611de4182b333ad48b76f9ccfaf9",
       "packed": false
-    }
+    },
+    {
+      "name": "check-virtio.sh",
+      "url": "https://raw.githubusercontent.com/RedPill-TTG/redpill-virtio/master/src/check-virtio.sh",
+      "sha256": "cedced0bf29ff691ab6b4a7e2001efa40b2cc5fd31e3a9834d210a4b3408ded8",
+      "packed": false
+    }    
   ],
 
   "kmods": {
