@@ -4,33 +4,75 @@
   "files": [
     {
       "name": "9pnet_virtio.ko",
-      "url": "https://github.com/pocopico/3.10.108-modules/raw/main/9pnet_virtio.ko",
+      "url": "https://github.com/pocopico/4.4.180plus-broadwellnk/raw/main/9pnet_virtio.ko",
       "sha256": "a75fcc21941122a72d0373dc2dc60e2e890d3b22bed210522b94f153b6084366",
       "packed": false
     },
     {
       "name": "9pnet.ko",
-      "url": "https://github.com/pocopico/3.10.108-modules/raw/main/9pnet.ko",
+      "url": "https://github.com/pocopico/4.4.180plus-broadwellnk/raw/main/9pnet.ko",
       "sha256": "d9571bf5be38c33bd4c9439fa7c93a459c80ef4f2fbf5349dd2931f6736c5ebe",
       "packed": false
     },
     {
       "name": "9p.ko",
-      "url": "https://github.com/pocopico/3.10.108-modules/raw/main/9p.ko",
+      "url": "https://github.com/pocopico/4.4.180plus-broadwellnk/raw/main/9p.ko",
       "sha256": "2c417070444530e3342e20bafb99c8fbdd8b1e6a26759f4555632d7b8c171f5a",
       "packed": false
     },
     {
       "name": "9pnet_rdma.ko",
-      "url": "https://github.com/pocopico/3.10.108-modules/raw/main/9pnet_rdma.ko",
+      "url": "https://github.com/pocopico/4.4.180plus-broadwellnk/raw/main/9pnet_rdma.ko",
       "sha256": "2c417070444530e3342e20bafb99c8fbdd8b1e6a26759f4555632d7b8c171f5a",
       "packed": false
     },
     {
-      "name": "virtio-3.10.108.tgz",
-      "url": "https://github.com/RedPill-TTG/redpill-virtio/releases/download/v1.0.0/virtio-3.10.108.tgz",
-      "sha256": "f1bdb3aeede66a6f0e2b383911c1306e56159574f3aa2f78645691bb6bde7ac0",
-      "packed": true
+      "name": "virtio.ko",
+      "url": "https://github.com/pocopico/4.4.180plus-broadwellnk/raw/main/virtio.ko",
+      "sha256": "2c417070444530e3342e20bafb99c8fbdd8b1e6a26759f4555632d7b8c171f5a",
+      "packed": false
+    },
+    {
+      "name": "virtio_balloon.ko",
+      "url": "https://github.com/pocopico/4.4.180plus-broadwellnk/raw/main/virtio_balloon.ko",
+      "sha256": "2c417070444530e3342e20bafb99c8fbdd8b1e6a26759f4555632d7b8c171f5a",
+      "packed": false
+    },
+    {
+      "name": "virtio_input.ko",
+      "url": "https://github.com/pocopico/4.4.180plus-broadwellnk/raw/main/virtio_input.ko",
+      "sha256": "2c417070444530e3342e20bafb99c8fbdd8b1e6a26759f4555632d7b8c171f5a",
+      "packed": false
+    },
+    {
+      "name": "virtio_mmio.ko",
+      "url": "https://github.com/pocopico/4.4.180plus-broadwellnk/raw/main/virtio_mmio.ko",
+      "sha256": "2c417070444530e3342e20bafb99c8fbdd8b1e6a26759f4555632d7b8c171f5a",
+      "packed": false
+    },
+    {
+      "name": "virtio_net.ko",
+      "url": "https://github.com/pocopico/4.4.180plus-broadwellnk/raw/main/virtio_net.ko",
+      "sha256": "2c417070444530e3342e20bafb99c8fbdd8b1e6a26759f4555632d7b8c171f5a",
+      "packed": false
+    },
+    {
+      "name": "virtio_pci.ko",
+      "url": "https://github.com/pocopico/4.4.180plus-broadwellnk/raw/main/virtio_pci.ko",
+      "sha256": "2c417070444530e3342e20bafb99c8fbdd8b1e6a26759f4555632d7b8c171f5a",
+      "packed": false
+    },
+    {
+      "name": "virtio_ring.ko",
+      "url": "https://github.com/pocopico/4.4.180plus-broadwellnk/raw/main/virtio_ring.ko",
+      "sha256": "2c417070444530e3342e20bafb99c8fbdd8b1e6a26759f4555632d7b8c171f5a",
+      "packed": false
+    },
+    {
+      "name": "virtio_scsi.ko",
+      "url": "https://github.com/pocopico/4.4.180plus-broadwellnk/raw/main/virtio_scsi.ko",
+      "sha256": "2c417070444530e3342e20bafb99c8fbdd8b1e6a26759f4555632d7b8c171f5a",
+      "packed": false
     },
     {
       "name": "check-virtio.sh",
@@ -43,13 +85,15 @@
   "kmods": {
     "virtio.ko": "",
     "virtio_ring.ko": "",
+    "virtio_balloon.ko": "",
     "virtio_mmio.ko": "",
     "virtio_pci.ko": "",
-    "virtio_blk.ko": "",
     "virtio_net.ko": "",
     "virtio_scsi.ko": "",
+    "virtio_input.ko": "",
     "9pnet.ko": "",
     "9pnet_virtio.ko": "",
+    "9pnet_rdma.ko": "",
     "9p.ko": ""
   },
 
